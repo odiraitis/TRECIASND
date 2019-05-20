@@ -1,4 +1,7 @@
 # TRECIASND
+
+**Norint paleisti nusicloniname repozitorija, paleidziame make komanda terminale.
+
 ### :computer:[v1.1](https://github.com/odiraitis/TRECIASND/releases/tag/v1.1) Iš Struct į Class.
 
 ### Tikslas : Palyginti abiejų programų: naudojančios struct iš ankstesniojo darbo ir naudojančio class tipo Studentus iš dabartinės realizacijos spartą (veikimo laiką).
@@ -343,6 +346,7 @@ TEST_CASE( "Factorials of 1 and higher are computed (pass)", "[single-file]" ) {
     REQUIRE( Factorial(10) == 3628800 );
 }
 ```
+**UNIT TESTINGAS KURIS MAN PASIRODE IDOMUS **:
 
 Tikrinu ar grazina gera faktoriala, visais atvejais apskaiciuojamas gerai, isskyrus 0, nes mano algoritmu 0 faktorialas nera 1.
 
