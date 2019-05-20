@@ -1,6 +1,6 @@
 # TRECIASND
 
-**Norint paleisti nusicloniname repozitorija, paleidziame make komanda terminale.
+**Norint paleisti nusicloniname repozitorija, paleidziame make komanda terminale.**
 
 ### :computer:[v1.1](https://github.com/odiraitis/TRECIASND/releases/tag/v1.1) Iš Struct į Class.
 
