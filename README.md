@@ -1,6 +1,16 @@
 # TRECIASND
 
-**Norint paleisti nusicloniname repozitorija, paleidziame make komanda terminale.**
+**Norint paleisti:**
+
+* `git clone https://github.com/odiraitis/TRECIASND.git`
+
+* `make`
+
+* `./main`
+
+**Istrynimui .txt ir .o failam**
+
+* make clean
 
 ### :computer:[v1.1](https://github.com/odiraitis/TRECIASND/releases/tag/v1.1) Iš Struct į Class.
 
